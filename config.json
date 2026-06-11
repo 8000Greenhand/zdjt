@@ -1,0 +1,10 @@
+{
+  "adspower_api": "http://local.adspower.com:50325",
+  "profile_id": "",
+  "output_root": "D:/Temu截图/截图结果",
+  "registry_path": "D:/Temu截图/登记/截图进度.xlsx",
+  "max_filename_length": 120,
+  "min_image_width": 250,
+  "min_image_height": 250,
+  "prefer_left_side_image": true
+}
